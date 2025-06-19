@@ -8,9 +8,13 @@ public class Main {
           new Grocery(200,5)
         };
 
+        String[] productType = { "Watch","Shirt","Grocery"};
         for (int i = 0 ; i < products.length;i++){
+            System.out.println(productType[i] + " Bill");
             double discountedValue = products[i].applyDiscount(products[i].price);
+            System.out.println("Original Price : " + products[i].price);
             System.out.println("Final price : " + discountedValue);
+            System.out.println();
         }
 
 
