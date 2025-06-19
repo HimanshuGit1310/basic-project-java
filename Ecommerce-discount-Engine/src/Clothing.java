@@ -9,6 +9,7 @@ public class Clothing extends Product{
 
     @Override
     double applyDiscount(double price) {
-        return price * 0.80;
+        return this.price * 0.80;
     }
+
 }
