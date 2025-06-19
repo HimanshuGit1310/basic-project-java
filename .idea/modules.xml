@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bank-Manager/Bank-Manager.iml" filepath="$PROJECT_DIR$/Bank-Manager/Bank-Manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/ELectricity-billing-system/ELectricity-billing-system.iml" filepath="$PROJECT_DIR$/ELectricity-billing-system/ELectricity-billing-system.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ecommerce-discount-Engine/Ecommerce-discount-Engine.iml" filepath="$PROJECT_DIR$/Ecommerce-discount-Engine/Ecommerce-discount-Engine.iml" />
       <module fileurl="file://$PROJECT_DIR$/Movie-Ratings/Movie-Ratings.iml" filepath="$PROJECT_DIR$/Movie-Ratings/Movie-Ratings.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-project-java.iml" filepath="$PROJECT_DIR$/basic-project-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/mark-analyzer/mark-analyzer.iml" filepath="$PROJECT_DIR$/mark-analyzer/mark-analyzer.iml" />
