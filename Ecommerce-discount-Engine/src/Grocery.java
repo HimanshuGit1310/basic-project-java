@@ -1,15 +1,15 @@
 public class Grocery extends Product{
 
-    int quanity;
+    int quantity;
 
     Grocery(double price,int quantity) {
         super(price);
-        this.quanity = quantity;
+        this.quantity = quantity;
     }
 
 
     @Override
     double applyDiscount(double price) {
-        return price * 0.95;
+        return this.price * 0.95;
     }
 }

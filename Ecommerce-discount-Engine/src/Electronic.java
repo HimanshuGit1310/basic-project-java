@@ -8,6 +8,7 @@ public class Electronic extends Product{
 
     @Override
     double applyDiscount(double price) {
-        return price * 0.90;
+        return this.price * 0.90;
     }
+
 }

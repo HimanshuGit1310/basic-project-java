@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
 
-        String filePath = "src\\For Granted - Dyalla.wav.crdownload";
+        String filePath = "src\\For Granted - Dyalla.wav";
         File file = new File(filePath);
 
         try(AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(file)) {
